@@ -9,8 +9,8 @@ It is plain HTML, CSS and JavaScript. There is no build step, no framework and n
 ## Images
 
 <img src="./screenshot/1.png">
-<img scr="./screenshot/2.png"><br>
-<img scr="./screenshot/3.png"><br>
+<img scr="././screenshot/1.png"><br>
+<img scr="./screenshot/1.png"><br>
 
 ---
 
