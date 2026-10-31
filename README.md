@@ -9,27 +9,8 @@ It is plain HTML, CSS and JavaScript. There is no build step, no framework and n
 ## Images
 
 <img src="./screenshot/1.png">
-<br>
 <img scr="./screenshot/2.png"><br>
 <img scr="./screenshot/3.png"><br>
-
-## Contents
-
-1. [Quick start](#1-quick-start)
-2. [Project structure](#2-project-structure)
-3. [The interface](#3-the-interface)
-4. [Video & Audio](#4-video--audio)
-5. [Image](#5-image)
-6. [PDF & Documents](#6-pdf--documents)
-7. [GIF](#7-gif)
-8. [Others](#8-others)
-9. [Utility](#9-utility)
-10. [Paint Studio in depth](#10-paint-studio-in-depth)
-11. [Third-party libraries and the network](#11-third-party-libraries-and-the-network)
-12. [How the code is organised](#12-how-the-code-is-organised)
-13. [Adding or changing a tool](#13-adding-or-changing-a-tool)
-14. [Limits and troubleshooting](#14-limits-and-troubleshooting)
-15. [Browser support and privacy](#15-browser-support-and-privacy)
 
 ---
 
