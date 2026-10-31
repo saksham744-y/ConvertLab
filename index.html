@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="ConvertLab - private in-browser converter for video, audio, images, PDFs, documents, GIFs, archives, units and time zones.">
+<title>ConvertLab - private file converter</title>
+<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/tools.css">
+</head>
+<body>
+<header class="top" id="top">
+  <div class="bar">
+    <a class="logo" href="#/"><img class="logo-mark" src="images/logo.svg" alt="" width="26" height="26"><span><b>Convert</b>Lab</span></a>
+    <nav class="cats" id="cats"></nav>
+    <div class="grow"></div>
+    <div class="search"><input id="q" type="search" placeholder="Search formats ( / )" autocomplete="off" aria-label="Search converters"><div id="sug" class="sug" hidden></div></div>
+    <button class="icon-btn" id="theme" aria-label="Toggle theme">&#9680;</button>
+  </div>
+  <div class="mega" id="mega" hidden><div class="mega-in"><div class="mgrid" id="megaIn"></div></div></div>
+</header>
+<main id="app"></main>
+<div id="toasts" class="toasts" aria-live="polite"></div>
+<script src="js/utils.js"></script>
+<script src="js/icons.js"></script>
+<script src="js/data.js"></script>
+<script src="js/libs.js"></script>
+<script src="js/image-engine.js"></script>
+<script src="js/media-engine.js"></script>
+<script src="js/document-engine.js"></script>
+<script src="js/zip-tool.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/unit-time.js"></script>
+<script src="js/editors.js"></script>
+<script src="js/paint.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
